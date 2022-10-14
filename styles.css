@@ -94,4 +94,40 @@ img {
 	height: 100px;
 	width: 100px;
 	border-radius: 20px;
+	font-weight: bold;
+	transition: 1s;
+}
+
+.profile-btn:hover {
+	
+	transform: scale(1.2,1.2);
+}
+
+.home-pic {
+	border-radius: 20px;
+}
+
+/* -------------------------- */
+
+.home-town {
+	max-width: 750px;
+}
+.home-town-pic {
+	height: 500px;
+	max-width: 1000px;
+	border-radius: 20px;
+}
+
+.home-town-section {
+	padding: 5px;
+}
+
+.small-headers {
+	border-bottom: solid orange;
+	padding: 5px;
+}
+
+.map {
+	border-radius: 20px;
+	max-width: 500px;
 }
