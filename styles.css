@@ -85,3 +85,13 @@ img {
 	border-radius: 20px;
 	border: solid black;
 }
+
+
+/* --------------------------- */
+
+.profile-btn {
+	background-color: yellow;
+	height: 100px;
+	width: 100px;
+	border-radius: 20px;
+}
